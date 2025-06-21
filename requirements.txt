@@ -1,0 +1,6 @@
+selenium
+beautifulsoup4
+streamlit
+langchain-core
+langchain-ollama
+lxml
