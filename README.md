@@ -15,9 +15,17 @@ Smart Scout is an AI-powered web application that helps users extract and unders
 ---
 
 ## Demo
+![Main UI](https://github.com/user-attachments/assets/cad87911-2b70-4dc1-af2d-19bbbb0145e6)
+![Flipkart Prodct link](https://github.com/user-attachments/assets/be17f515-f398-4671-b2d4-cd52c8e09a14)
+![Scaping the product Data](https://github.com/user-attachments/assets/dc136559-ada1-4159-a06f-6ac12ca7c580)
+![Generating Response](https://github.com/user-attachments/assets/5df03500-dd10-4035-8225-3fda1b3ada11)
+![Response](https://github.com/user-attachments/assets/75c4ca31-5ba7-4cc5-82dc-a079b32ef545)
 
-- [Project Presentation (PPT)](https://drive.google.com/file/d/1QwPPT_LINK_HERE/view?usp=sharing)  
-  *(Replace with your actual PPT link)*
+
+
+
+
+
 
 ---
 
@@ -78,10 +86,7 @@ streamlit run app.py
 ├── scrape.py             # Web scraping and content cleaning utilities
 ├── parse.py              # AI parsing, caching, and response logic
 ├── requirements.txt      # Python dependencies
-├── chromedriver.exe      # Chrome WebDriver (download separately)
-├── .vscode/              # VSCode settings
-├── __pycache__/          # Python cache files
-└── .gitignore
+└── chromedriver.exe      # Chrome WebDriver (download separately)
 ```
 
 ---
@@ -111,8 +116,7 @@ This project is for educational purposes.
 
 ## Presentation
 
-- [Read the Project PPT](https://drive.google.com/file/d/1QwPPT_LINK_HERE/view?usp=sharing)  
-  *(Replace with your actual PPT link)*
+- [Read the Project PPT](https://drive.google.com/file/d/1UBdBGgiug4tS57l-F-cIo7inmrFrpF6I/view?usp=sharing)  
 
 ---
 
